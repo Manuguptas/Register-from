@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://cdn.dribbble.com/users/78025/screenshots/1167144/test-bird.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position-x: 100px; */
+}
+.centers{
+    text-align: center;
+}
